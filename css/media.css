@@ -1,0 +1,191 @@
+@media (max-width: 1200px) {}
+
+
+@media (max-width: 992px) {
+
+    .card__buy {
+        width: 94%;
+    }
+
+    .card__title {
+        margin: 95px 0 15px;
+        font-size: 40px;
+    }
+
+    .card__subtitle {
+        font-size: 18px;
+        width: 300px;
+    }
+
+    .btours__pricecard {
+        bottom: -30px;
+        left: 110px;
+    }
+
+    .btours__cards {
+        margin-bottom: 60px;
+    }
+
+    .reviews__ctext {
+        width: 400px;
+    }
+
+
+
+}
+
+
+@media (max-width: 768px) {
+
+    .navbar {
+        background: #fff;
+        padding: 30px 0 30px;
+    }
+
+    .tours__title {
+        font-size: 40px;
+        margin: 50px 0 80px;
+    }
+
+    .text__title {
+        margin: 0 0 50px;
+    }
+
+    .card__buy {
+        width: 92%;
+    }
+
+    .btours__pricecard {
+        bottom: -30px;
+        left: 50px;
+    }
+
+    .card__title {
+        margin: 35px 0 15px;
+        font-size: 25px;
+    }
+
+    .card__subtitle {
+        font-size: 16px;
+    }
+
+    .card__button {
+        margin: 15px 0 20px 0;
+    }
+
+    .btours__pricecard {
+        bottom: -30px;
+        left: 50px;
+
+    }
+
+}
+
+
+@media (max-width: 576px) {
+
+    .navbar__logo {
+        font-size: 20px;
+    }
+
+    .header__title {
+        font-size: 30px;
+    }
+
+    .form {
+        width: 290px;
+    }
+
+    .card__buy {
+        width: 89%;
+    }
+
+    .card__title {
+        margin: 20px 0 10px;
+        font-size: 20px;
+    }
+
+
+    .card__subtitle {
+        font-size: 15px;
+        width: 230px;
+    }
+
+    .card__button {
+        margin: -5px 0 20px 0;
+    }
+
+    .tours__title {
+        font-size: 30px;
+    }
+
+    .text__title {
+        font-size: 25px
+    }
+
+    .documents__subtitle {
+        font-size: 16px;
+    }
+
+    .documents__li {
+        font-size: 16px;
+    }
+
+    .btours__pricecard {
+        left: 28px;
+    }
+
+    .btours__pricecard {
+        width: 210px;
+        height: 80px;
+    }
+
+    .btours__place {
+        font-size: 20px;
+    }
+
+    .btours__price {
+        font-size: 20px;
+    }
+
+    .reviews__ctext {
+        width: 400px;
+        font-size: 16px;
+    }
+
+    .rewiews__cimg {
+        top: -20%;
+        left: 39%;
+    }
+
+    .reviews__card {
+        width: 100%;
+        height: min-content;
+        padding: 70px 40px 10px;
+    }
+
+    .footer__text {
+        margin: 20px 20px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .btours__pricecard {
+        left: 45px;
+    }
+
+    .card__buy {
+        width: 90.5%;
+    }
+
+    .reviews__ctext {
+        width: 275px;
+        font-size: 16px;
+    }
+
+    .rewiews__cimg {
+        top: -20%;
+        left: 33%;
+    }
+}
